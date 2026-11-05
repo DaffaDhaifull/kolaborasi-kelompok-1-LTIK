@@ -5,21 +5,29 @@ RPL Kelas 1C
 Kalkulator Sederhana
 """
 
-# Daftar Fungsi
-
-
-
-# Init Variabel
+# Variabel Global
 pembatas = "="*30
 
+# Fungsi Operator
 
-# Kalkulator Sederhana
+# Fungsi Kalkulator
+
+
+# Sistem Kalkulator Sederhana 
 
 print(pembatas)
 print("Selamat Datang!! di SiKaSeh")
 print("( Sistem Kalkulator Sederhana )")
 print(pembatas)
 
+print("Apa yang ingin anda Lakukan?")
+print("1. Penjumlahan")
+print("2. Pengurangan")
+print("3. Perkalian")
+print("4. Pembagian")
+print("5. Modulus")
+print("6. Pangkat")
+print("7. Keluar")
 
 # Logika Kalkulator
 
